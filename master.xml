@@ -27,7 +27,7 @@ Your sources have been sync'd successfully.
            name="coreos/portage-stable"
            groups="minilayout" />
   <project path="src/third_party/coreos-overlay"
-           name="coreos/coreos-overlay"
+           name="quickwind/coreos-overlay"
            groups="minilayout" />
 
   <project path="src/third_party/efunctions"
