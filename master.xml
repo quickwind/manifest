@@ -20,7 +20,7 @@ Your sources have been sync'd successfully.
            groups="minilayout" remote="cros"
            name="chromiumos/third_party/pyelftools" />
 
-  <project path="src/scripts" name="coreos/scripts"
+  <project path="src/scripts" name="quickwind/scripts"
            groups="minilayout" />
 
   <project path="src/third_party/portage-stable"
